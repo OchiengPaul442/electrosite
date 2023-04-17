@@ -1,0 +1,9 @@
+export { default as Welcome } from "./welcome/Welcome";
+export { default as Ourstory } from "./ourStory/Ourstory";
+export { default as ElectroFounder } from "./founder/ElectroFounder";
+export { default as Volunteer } from "./volunteer/Volunteer";
+export { default as News } from "./news/News";
+export { default as Reviews } from "./reviews/Reviews";
+export { default as Contact } from "./contact/Contact";
+export { default as VolunteerBanner } from "./volunteer/VolunteerBanner";
+export { default as Reasons } from "./reasons/Reasons";
