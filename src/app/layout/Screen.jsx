@@ -1,8 +1,7 @@
 import React from "react";
 
 // css
-import "../static/css/bootstrap.min.css";
-import "../static/css/bootstrap-icons.css";
+// import "../static/css/bootstrap-icons.css";
 import "../static/css/main.css";
 
 // components
