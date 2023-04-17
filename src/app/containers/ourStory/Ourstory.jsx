@@ -23,10 +23,10 @@ const Ourstory = () => {
               </h5>
 
               <p className="mb-0">
-                This is a Bootstrap 5.2.2 CSS template for charity organization
-                websites. You can feel free to use it. Please tell your friends
-                about TemplateMo website. Thank you. HTML CSS files updated on
-                20 Oct 2022.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Laboriosam est explicabo id dolore dolorum, esse rem dolores
+                corporis maiores soluta. Consequatur pariatur autem voluptate,
+                soluta debitis hic laboriosam adipisci quisquam.
               </p>
             </div>
 
@@ -36,19 +36,18 @@ const Ourstory = () => {
                   <h5 className="mb-3">Our Mission</h5>
 
                   <p>
-                    Sed leo nisl, posuere at molestie ac, suscipit auctor quis
-                    metus
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>
 
                   <ul className="custom-list mt-2">
                     <li className="custom-list-item d-flex">
                       <i className="bi-check custom-text-box-icon me-2"></i>
-                      Charity Theme
+                      lorem ipsum dolor sit amet
                     </li>
 
                     <li className="custom-list-item d-flex">
                       <i className="bi-check custom-text-box-icon me-2"></i>
-                      Semantic HTML
+                      Sed ut perspiciatis unde omnis
                     </li>
                   </ul>
                 </div>

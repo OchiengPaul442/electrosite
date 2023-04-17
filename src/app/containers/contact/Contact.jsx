@@ -14,7 +14,7 @@ function Contact() {
                 <img src={Profile5} className="img-fluid avatar-image" alt="" />
 
                 <div className="d-flex flex-column justify-content-center ms-3">
-                  <p className="mb-0">Clara Barton</p>
+                  <p className="mb-0">John Opio</p>
                   <p className="mb-0">
                     <strong>HR & Office Manager</strong>
                   </p>
@@ -26,19 +26,21 @@ function Contact() {
 
                 <p className="d-flex mb-2">
                   <i className="bi-geo-alt me-2"></i>
-                  Akershusstranda 20, 0150 Oslo, Norway
+                  ELECTRO 23rd STREET KAMPALA, UGANDA
                 </p>
 
                 <p className="d-flex mb-2">
                   <i className="bi-telephone me-2"></i>
 
-                  <a href="tel: 120-240-9600">120-240-9600</a>
+                  <a href="tel: +256 778 279 000">+256 778 279 000</a>
                 </p>
 
                 <p className="d-flex">
                   <i className="bi-envelope me-2"></i>
 
-                  <a href="mailto:info@yourgmail.com">donate@charity.org</a>
+                  <a href="mailto:info@electrocharity.com">
+                    donate@electrocharity.com
+                  </a>
                 </p>
 
                 <a href="#" className="custom-btn btn mt-3">
@@ -59,7 +61,7 @@ function Contact() {
 
               <p className="mb-4">
                 Or, you can just send an email:
-                <a href="#">info@charity.org</a>
+                <a href="#">info@electrocharity.com</a>
               </p>
               <div className="row">
                 <div className="col-lg-6 col-md-6 col-12">
@@ -100,7 +102,7 @@ function Contact() {
                 rows="5"
                 className="form-control"
                 id="message"
-                placeholder="What can we help you?"
+                placeholder="How can we help you?"
               ></textarea>
 
               <button type="submit" className="form-control">

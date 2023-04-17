@@ -84,7 +84,7 @@ const Footer = () => {
           <div class="row">
             <div class="col-lg-6 col-md-7 col-12">
               <p class="copyright-text mb-0">
-                Copyright © 2023 <a href="#">ELECTRO</a> Charity org.{" "}
+                Copyright © 2023 <a href="#">ELECTRO</a> Charity.{" "}
               </p>
             </div>
 

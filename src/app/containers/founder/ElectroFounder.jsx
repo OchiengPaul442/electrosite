@@ -16,7 +16,7 @@ function ElectroFounder() {
 
           <div className="col-lg-5 col-md-7 col-12">
             <div className="custom-text-block">
-              <h2 className="mb-0">Sandy Chan</h2>
+              <h2 className="mb-0">Paul Ochieng</h2>
 
               <p className="text-muted mb-lg-4 mb-md-4">Co-Founding Partner</p>
 
@@ -26,9 +26,10 @@ function ElectroFounder() {
               </p>
 
               <p>
-                You are not allowed to redistribute this template ZIP file on
-                any other template collection website. Please contact TemplateMo
-                for more information.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
+                quae voluptatum quis, nostrum aperiam, corrupti doloribus nisi
+                veniam nam laborum repellendus in odit deserunt facilis culpa
+                accusamus magnam expedita sed.
               </p>
 
               <ul className="social-icon mt-4">
